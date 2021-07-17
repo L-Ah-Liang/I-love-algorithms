@@ -1,4 +1,4 @@
-[TOC]
+<!-- [TOC] -->
 ### <p align="center">I-love-algorithms</p>
 
 ### 项目简介
